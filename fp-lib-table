@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name Socket_Arduino_Mega)(type KiCad)(uri "$(KIPRJMOD)/Socket_Arduino_Mega.pretty")(options "")(descr ""))
+  (lib (name TerminalBlock_Phoenix_PTSA)(type KiCad)(uri ${KIPRJMOD}/TerminalBlock_Phoenix_PTSA.pretty)(options "")(descr ""))
+  (lib (name Button_Switch_SMD)(type KiCad)(uri ${KIPRJMOD}/Button_Switch_SMD.pretty)(options "")(descr ""))
+  (lib (name Relay_Panasonic)(type KiCad)(uri ${KIPRJMOD}/Relay_Panasonic.pretty)(options "")(descr ""))
+  (lib (name MPS)(type KiCad)(uri ${KIPRJMOD}/MPS.pretty)(options "")(descr ""))
+  (lib (name Inductor_SMD_Abracon)(type KiCad)(uri ${KIPRJMOD}/Inductor_SMD_Abracon.pretty)(options "")(descr ""))
+)
