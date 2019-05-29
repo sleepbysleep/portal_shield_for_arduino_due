@@ -2319,7 +2319,7 @@ L portal_schematic-rescue:Relay_Panasonic_PA1a_XX_DIP-panasonic_pa_relays K1
 U 1 1 5D0A5854
 P 1800 3100
 F 0 "K1" H 2200 3200 50  0000 R CNN
-F 1 "Relay_PW_SW" H 2100 3400 50  0000 R CNN
+F 1 "Pa1a-12" H 2100 3400 50  0000 R CNN
 F 2 "Relay_Panasonic:Relay_Panasonic_PA1a_xx_DIP" H 1800 3100 50  0001 C CNN
 F 3 "" H 1800 3100 50  0001 C CNN
 	1    1800 3100
