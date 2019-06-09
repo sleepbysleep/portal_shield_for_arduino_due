@@ -1,5 +1,6 @@
 (sym_lib_table
   (lib (name MP1584)(type Legacy)(uri ${KIPRJMOD}/MP1584.lib)(options "")(descr ""))
   (lib (name panasonic_pa_relays)(type Legacy)(uri ${KIPRJMOD}/panasonic_pa_relays.lib)(options "")(descr ""))
-  (lib (name portal_schematic-rescue)(type Legacy)(uri ${KIPRJMOD}/portal_schematic-rescue.lib)(options "")(descr ""))
+  (lib (name portal_schematic-rescue)(type Legacy)(uri ${KIPRJMOD}/portal_shield_for_arduino_due-rescue.lib)(options "")(descr ""))
+  (lib (name portal_shield_for_arduino_due-rescue)(type Legacy)(uri ${KIPRJMOD}/portal_shield_for_arduino_due-rescue.lib)(options "")(descr ""))
 )
