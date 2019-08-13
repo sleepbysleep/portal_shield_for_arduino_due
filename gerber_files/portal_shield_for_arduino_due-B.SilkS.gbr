@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,5.0.2+dfsg1-1*
-G04 #@! TF.CreationDate,2019-06-09T15:01:45+09:00*
-G04 #@! TF.ProjectId,portal_schematic,706f7274-616c-45f7-9363-68656d617469,rev?*
+G04 #@! TF.CreationDate,2019-08-13T10:38:28+09:00*
+G04 #@! TF.ProjectId,portal_shield_for_arduino_due,706f7274-616c-45f7-9368-69656c645f66,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Legend,Bot*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 5.0.2+dfsg1-1) date Sun 09 Jun 2019 03:01:45 PM KST*
+G04 Created by KiCad (PCBNEW 5.0.2+dfsg1-1) date Tue 13 Aug 2019 10:38:28 AM KST*
 %MOMM*%
 %LPD*%
 G01*
